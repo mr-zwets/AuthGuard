@@ -1,4 +1,4 @@
-# CHIP-2023-07-AuthGuard: AuthGuard Standard
+# CHIP-2023-08-AuthGuard: AuthGuard Standard
 
         Title: AuthGuard Standard
         Type: Standards
