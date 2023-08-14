@@ -6,7 +6,7 @@
         Owners: Mathieu Geukens, bitcoincashautist 
         Status: Draft
         Initial Publication Date: 2023-08-09
-        Latest Revision Date: 2023-08-09
+        Latest Revision Date: 2023-08-14
 
 ## Summary
 
@@ -147,6 +147,8 @@ This spec is the result of the AuthGuard contract by bitcoincashautist and its f
 in combination with separate work on a 'Minting Baton Covenant'. This standard has been dropped in favor of AuthGuard.
 
 ## Changelog
+- **v0.1.1 – 2023-08-14**
+  - add unguarding option to contract
 - **v0.1.0 – 2023-08-09**
   - first published draft version
 
